@@ -1,4 +1,4 @@
-package ru.test.dnevnix.block;
+package ru.test.dnevnix.blocks;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

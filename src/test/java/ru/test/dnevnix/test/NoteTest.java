@@ -5,10 +5,10 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import ru.test.dnevnix.Precondition;
-import ru.test.dnevnix.block.AuthorizationBlock;
-import ru.test.dnevnix.block.Navigation;
-import ru.test.dnevnix.block.NoteBlock;
-import ru.test.dnevnix.block.NotePopUp;
+import ru.test.dnevnix.blocks.AuthorizationBlock;
+import ru.test.dnevnix.blocks.Navigation;
+import ru.test.dnevnix.blocks.NoteBlock;
+import ru.test.dnevnix.blocks.NotePopUp;
 
 public class NoteTest extends Precondition {
 

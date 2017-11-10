@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import ru.test.dnevnix.Precondition;
-import ru.test.dnevnix.block.AuthorizationBlock;
+import ru.test.dnevnix.blocks.AuthorizationBlock;
 
 import static java.lang.Thread.sleep;
 
